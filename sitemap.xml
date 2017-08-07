@@ -6,80 +6,11 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://arterianet.com/images/arteria-logo-dark.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/arteria-logo-white.svg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://arterianet.com/images/home-1-1920x1280.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://arterianet.com/images/home-2-1920x1280.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://arterianet.com/brands.html</loc>
-    <lastmod>2017-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://arterianet.com/images/arteria-logo-dark.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/arteria-logo-white.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/blue-arrow-right.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/blue-arrow-up.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/blue-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/blue-arrow-left.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/arteria-logo-grey-box.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/drive-qualified-traffic.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/collect-contact-information.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/discover-audience-insights.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/increase-sales-volume.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/improve-audience-targeting.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/drive-social-amplification.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://arterianet.com/brand-case-study.html</loc>
-    <lastmod>2017-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://arterianet.com/images/arteria-logo-dark.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/arteria-logo-white.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://arterianet.com/careers.html</loc>
-    <lastmod>2017-08-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
       <image:loc>http://arterianet.com/images/arteria-logo-dark.svg</image:loc>
     </image:image>
@@ -106,7 +37,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://arterianet.com/retailers.html</loc>
+    <loc>http://arterianet.com/careers.html</loc>
     <lastmod>2017-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -115,30 +46,6 @@
     </image:image>
     <image:image>
       <image:loc>http://arterianet.com/images/arteria-logo-white.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/blue-arrow-right.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/blue-arrow-up.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/blue-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/blue-arrow-left.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/arteria-logo-grey-box.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/surprise-and-delight.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/increase-profitability.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/drive-engagement.svg</image:loc>
     </image:image>
   </url>
   <url>
@@ -155,6 +62,18 @@
   </url>
   <url>
     <loc>http://arterianet.com/back-end-developer.html</loc>
+    <lastmod>2017-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://arterianet.com/images/arteria-logo-dark.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/arteria-logo-white.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://arterianet.com/account-executive.html</loc>
     <lastmod>2017-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -187,6 +106,51 @@
     </image:image>
   </url>
   <url>
+    <loc>http://arterianet.com/brands.html</loc>
+    <lastmod>2017-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://arterianet.com/images/arteria-logo-dark.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/arteria-logo-white.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/drive-qualified-traffic.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/collect-contact-information.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/discover-audience-insights.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/increase-sales-volume.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/improve-audience-targeting.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/drive-social-amplification.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/blue-arrow-up.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/blue-arrow-right.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/blue-arrow-left.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/blue-arrow-down.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/arteria-logo-grey-box.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://arterianet.com/retailer-case-study.html</loc>
     <lastmod>2017-08-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -199,7 +163,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://arterianet.com/account-executive.html</loc>
+    <loc>http://arterianet.com/operations-intern.html</loc>
     <lastmod>2017-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -211,7 +175,43 @@
     </image:image>
   </url>
   <url>
-    <loc>http://arterianet.com/operations-intern.html</loc>
+    <loc>http://arterianet.com/retailers.html</loc>
+    <lastmod>2017-08-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://arterianet.com/images/arteria-logo-dark.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/arteria-logo-white.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/blue-arrow-up.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/blue-arrow-right.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/blue-arrow-left.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/blue-arrow-down.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/arteria-logo-grey-box.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/surprise-and-delight.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/increase-profitability.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/drive-engagement.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://arterianet.com/brand-case-study.html</loc>
     <lastmod>2017-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
