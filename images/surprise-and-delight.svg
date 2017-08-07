@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="136"
+   height="136.00006"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 68 68.000031"
+   id="svg3033"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="surprise-and-delight.svg"
+   style="fill:#ffffff">
+  <metadata
+     id="metadata3043">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3041" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="807"
+     id="namedview3039"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.18"
+     inkscape:cx="68"
+     inkscape:cy="68.00004"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3033" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path3037"
+     overflow="visible"
+     display="inline"
+     visibility="visible"
+     d="M 34,0 C 15.2461,0 0,15.2461 0,34.00003 c 0,18.754 15.2461,34 34,34 18.7539,0 34,-15.246 34,-34 C 68,15.2461 52.7539,0 34,0 z m 0,4 c 16.5922,0 30,13.4079 30,30.00003 0,16.5922 -13.4078,30 -30,30 -16.5921,0 -30,-13.4078 -30,-30 C 4,17.4079 17.4079,4 34,4 z M 22,19 c -2.7615,0 -5,2.2386 -5,5 0,2.7614 2.2385,5 5,5 2.7615,0 5,-2.2386 5,-5 0,-2.7614 -2.2385,-5 -5,-5 z m 24,0 c -2.7615,0 -5,2.2386 -5,5 0,2.7614 2.2385,5 5,5 2.7615,0 5,-2.2386 5,-5 0,-2.7614 -2.2385,-5 -5,-5 z M 19.9063,40.96883 a 2.0002,2.0002 0 0 0 -1.5313,3.1874 c 3.46,4.7444 9.1899,7.8438 15.625,7.8438 6.4351,0 12.165,-3.0994 15.625,-7.8438 a 2.003476,2.003476 0 1 0 -3.25,-2.3437 c -2.7088,3.7144 -7.2143,6.1875 -12.375,6.1875 -5.1607,0 -9.6662,-2.4731 -12.375,-6.1875 a 2.0002,2.0002 0 0 0 -1.7187,-0.8437 z"
+     style="text-indent:0;text-transform:none;direction:ltr;block-progression:tb;baseline-shift:baseline;color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+</svg>

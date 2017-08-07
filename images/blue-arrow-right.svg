@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 38.246625 38.1081"
+   version="1.1"
+   x="0px"
+   y="0px"
+   id="svg2"
+   inkscape:version="0.48.5 r10040"
+   width="100%"
+   height="100%"
+   sodipodi:docname="arrow.svg"
+   style="fill:#000000">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="807"
+     id="namedview14"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.36"
+     inkscape:cx="-55.304994"
+     inkscape:cy="18.303106"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title4">Extra Bold Super Soft Arrow Right</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <g
+     id="g8"
+     style="fill:none;stroke:none"
+     transform="translate(-30.304994,-30.195006)">
+    <g
+       id="g10"
+       style="fill:#000000">
+      <path
+         d="m 52.102715,31.626041 c -1.161297,-1.17418 -3.048664,-1.163882 -4.210648,0.01801 L 31.932488,47.877112 c -2.828,2.828 1.415,7.071 4.243,4.243 l 9.467913,-9.467914 c 0.779322,-0.779321 1.411087,-0.515345 1.411087,0.593913 l 0,22.752001 c 0,1.657 1.343,3 3,3 1.657,0 3,-1.343 3,-3 l 0,-22.752001 c 0,-1.10733 0.631866,-1.373075 1.410956,-0.593913 l 9.467044,9.467914 c 2.829,2.828 7.071,-1.415 4.243,-4.243 L 52.102715,31.626041 z"
+         transform="matrix(0,1,-1,0,99.303106,-0.804994)"
+         id="path12"
+         style="fill:#328ae3;fill-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

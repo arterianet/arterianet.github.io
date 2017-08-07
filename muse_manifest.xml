@@ -1,0 +1,800 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arterianet.com" resolutions="1x" timestamp="1502122093483">
+  <folder name="css">
+    <file name="site_global.css" crc="3911349242"/>
+    <file name="brands.css" crc="435160032" ref="brands"/>
+    <file name="nomq_brands.css" crc="4147977272" ref="brands"/>
+    <file name="iefonts_brands.css" crc="32709209" ref="brands"/>
+    <file name="retailers.css" crc="323807678" ref="retailers"/>
+    <file name="nomq_retailers.css" crc="269039346" ref="retailers"/>
+    <file name="iefonts_retailers.css" crc="32709209" ref="retailers"/>
+    <file name="contact-us.css" crc="210969153" ref="contact-us"/>
+    <file name="nomq_contact-us.css" crc="3854688479" ref="contact-us"/>
+    <file name="iefonts_contact-us.css" crc="32709209" ref="contact-us"/>
+    <file name="brand-case-study.css" crc="416588595" ref="brand-case-study"/>
+    <file name="nomq_brand-case-study.css" crc="3813475898" ref="brand-case-study"/>
+    <file name="iefonts_brand-case-study.css" crc="32709209" ref="brand-case-study"/>
+    <file name="index.css" crc="410334359" ref="index"/>
+    <file name="nomq_index.css" crc="38807299" ref="index"/>
+    <file name="iefonts_index.css" crc="32709209" ref="index"/>
+    <file name="careers.css" crc="164672415" ref="careers"/>
+    <file name="nomq_careers.css" crc="4220642688" ref="careers"/>
+    <file name="iefonts_careers.css" crc="32709209" ref="careers"/>
+    <file name="master_arteria-navigation.css" crc="4091379596" ref="brands:brand-case-study:careers:contact-us:index:retailers:back-end-developer:front-end-developer:about-us:retailer-case-study:operations-intern:account-executive"/>
+    <file name="nomq_preview_master_arteria-navigation.css" crc="435237628" ref="brands:brand-case-study:careers:contact-us:index:retailers:back-end-developer:front-end-developer:about-us:retailer-case-study:operations-intern:account-executive"/>
+    <file name="back-end-developer.css" crc="468844254" ref="back-end-developer"/>
+    <file name="nomq_back-end-developer.css" crc="279420971" ref="back-end-developer"/>
+    <file name="iefonts_back-end-developer.css" crc="32709209" ref="back-end-developer"/>
+    <file name="front-end-developer.css" crc="398892312" ref="front-end-developer"/>
+    <file name="nomq_front-end-developer.css" crc="358626946" ref="front-end-developer"/>
+    <file name="iefonts_front-end-developer.css" crc="32709209" ref="front-end-developer"/>
+    <file name="about-us.css" crc="3987612961" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="42682175" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="32709209" ref="about-us"/>
+    <file name="retailer-case-study.css" crc="3761282786" ref="retailer-case-study"/>
+    <file name="nomq_retailer-case-study.css" crc="100743981" ref="retailer-case-study"/>
+    <file name="iefonts_retailer-case-study.css" crc="32709209" ref="retailer-case-study"/>
+    <file name="operations-intern.css" crc="4019735500" ref="operations-intern"/>
+    <file name="nomq_operations-intern.css" crc="438840189" ref="operations-intern"/>
+    <file name="iefonts_operations-intern.css" crc="32709209" ref="operations-intern"/>
+    <file name="account-executive.css" crc="3873817719" ref="account-executive"/>
+    <file name="nomq_account-executive.css" crc="3923252569" ref="account-executive"/>
+    <file name="iefonts_account-executive.css" crc="32709209" ref="account-executive"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fontawesome-webfont.woff" crc="462672289"/>
+    <file name="fontawesome-webfont.eot" crc="415170694"/>
+    <file name="fontawesome-webfont.svg" crc="3771442179"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:brands:brand-case-study:careers:contact-us:retailers:front-end-developer:back-end-developer:about-us:retailer-case-study:account-executive:operations-intern"/>
+    <file name="museutils.js" crc="4216313831" ref="index:brands:brand-case-study:careers:contact-us:retailers:front-end-developer:back-end-developer:about-us:retailer-case-study:account-executive:operations-intern"/>
+    <file name="whatinput.js" crc="86476730" ref="index:brands:brand-case-study:careers:contact-us:retailers:front-end-developer:back-end-developer:about-us:retailer-case-study:account-executive:operations-intern"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:brands:brand-case-study:careers:contact-us:retailers:front-end-developer:back-end-developer:about-us:retailer-case-study:account-executive:operations-intern"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:brands:brand-case-study:careers:contact-us:retailers:front-end-developer:back-end-developer:about-us:retailer-case-study:account-executive:operations-intern"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:brand-case-study:about-us:retailer-case-study:brands"/>
+    <file name="webpro.js" crc="4143865194" ref="index:brands:brand-case-study:careers:contact-us:retailers:front-end-developer:back-end-developer:about-us:retailer-case-study:account-executive:operations-intern"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index:brand-case-study:retailer-case-study"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index:brand-case-study:retailer-case-study"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index:brand-case-study:retailer-case-study"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:brands:brand-case-study:careers:contact-us:retailers:front-end-developer:back-end-developer:about-us:retailer-case-study:account-executive:operations-intern"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="index:brands:brand-case-study:careers:contact-us:retailers:front-end-developer:back-end-developer:about-us:retailer-case-study:account-executive:operations-intern"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:brands:brand-case-study:careers:contact-us:retailers:front-end-developer:back-end-developer:about-us:retailer-case-study:account-executive:operations-intern"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index:brands:brand-case-study:careers:contact-us:retailers:front-end-developer:back-end-developer:about-us:retailer-case-study:account-executive:operations-intern"/>
+    <file name="require.js" crc="3951022091" ref="index:brands:brand-case-study:careers:contact-us:retailers:front-end-developer:back-end-developer:about-us:retailer-case-study:account-executive:operations-intern"/>
+    <file name="form_check.php" crc="154010282" ref="contact-us"/>
+    <file name="form_throttle.php" crc="266437015" ref="contact-us"/>
+    <file name="form_process.php" crc="512629711" ref="contact-us"/>
+    <file name="form-u323292.php" crc="144887683" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="arteria-logo-dark.svg" crc="178099619" seo="true" ref="index:brands:brand-case-study:careers:contact-us:retailers:front-end-developer:back-end-developer:about-us:retailer-case-study:account-executive:operations-intern">
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="account-executive" alt=""/>
+      <caption webpage="account-executive" alt=""/>
+      <caption webpage="account-executive" alt=""/>
+      <caption webpage="account-executive" alt=""/>
+      <caption webpage="account-manager" alt=""/>
+      <caption webpage="account-manager" alt=""/>
+      <caption webpage="account-manager" alt=""/>
+      <caption webpage="account-manager" alt=""/>
+      <caption webpage="terms-of-service" alt=""/>
+      <caption webpage="terms-of-service" alt=""/>
+      <caption webpage="terms-of-service" alt=""/>
+      <caption webpage="terms-of-service" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="privacy-policy-copy" alt=""/>
+      <caption webpage="privacy-policy-copy" alt=""/>
+      <caption webpage="privacy-policy-copy" alt=""/>
+      <caption webpage="privacy-policy-copy" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="operations-intern" alt=""/>
+      <caption webpage="operations-intern" alt=""/>
+      <caption webpage="operations-intern" alt=""/>
+      <caption webpage="operations-intern" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="back-end-developer" alt=""/>
+      <caption webpage="back-end-developer" alt=""/>
+      <caption webpage="back-end-developer" alt=""/>
+      <caption webpage="back-end-developer" alt=""/>
+    </file>
+    <file name="arteria-logo-dark_poster_.png" crc="4025672716" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:brands:brand-case-study:careers:contact-us:retailers:front-end-developer:back-end-developer:about-us:retailer-case-study:account-executive:operations-intern"/>
+    <file name="trigger-normal-blue.png" crc="3872549385" ref="brand-case-study:retailer-case-study">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+    </file>
+    <file name="trigger-rollover-blue.png" crc="97864352" ref="brand-case-study:retailer-case-study">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+    </file>
+    <file name="trigger-active-blue.png" crc="4076082421" ref="brand-case-study:retailer-case-study">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="menu-bg.gif" crc="133413637" ref="index">
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+    </file>
+    <file name="arteria-logo-white.svg" crc="3970811726" seo="true" ref="index:brands:brand-case-study:careers:contact-us:retailers:front-end-developer:back-end-developer:about-us:retailer-case-study:account-executive:operations-intern">
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="account-executive" alt=""/>
+      <caption webpage="account-executive" alt=""/>
+      <caption webpage="account-executive" alt=""/>
+      <caption webpage="account-executive" alt=""/>
+      <caption webpage="account-manager" alt=""/>
+      <caption webpage="account-manager" alt=""/>
+      <caption webpage="account-manager" alt=""/>
+      <caption webpage="account-manager" alt=""/>
+      <caption webpage="terms-of-service" alt=""/>
+      <caption webpage="terms-of-service" alt=""/>
+      <caption webpage="terms-of-service" alt=""/>
+      <caption webpage="terms-of-service" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="privacy-policy" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="privacy-policy-copy" alt=""/>
+      <caption webpage="privacy-policy-copy" alt=""/>
+      <caption webpage="privacy-policy-copy" alt=""/>
+      <caption webpage="privacy-policy-copy" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="careers-details" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="operations-intern" alt=""/>
+      <caption webpage="operations-intern" alt=""/>
+      <caption webpage="operations-intern" alt=""/>
+      <caption webpage="operations-intern" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="careers" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="retail-case-study" alt=""/>
+      <caption webpage="back-end-developer" alt=""/>
+      <caption webpage="back-end-developer" alt=""/>
+      <caption webpage="back-end-developer" alt=""/>
+      <caption webpage="back-end-developer" alt=""/>
+    </file>
+    <file name="arteria-logo-white_poster_.png" crc="439593084" ref="index"/>
+    <file name="hamburger.svg" crc="253546228" ref="index"/>
+    <file name="x.svg" crc="3826083066" ref="index"/>
+    <file name="our-history-1.jpg" crc="88650976" ref="about-us">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="our-history-2.jpg" crc="4021020296" ref="about-us">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="message-blue.png" crc="3820924651" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="location-blue.png" crc="3935125398" seo="true" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="rob-caucci.jpg" crc="4050894658" seo="true" ref="about-us">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="bill-thayer.jpg" crc="4050894658" seo="true" ref="about-us">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="kay-anar.jpg" crc="4050894658" seo="true" ref="about-us">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="home-1-1920x1280.jpg" crc="138513647" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home-2-1920x1280.jpg" crc="201504804" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="about-1-960x660.jpg" crc="16251263" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="about-2-960x660.jpg" crc="4263159094" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="about-timeline-1-275x165.jpg" crc="176801146" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="case-study-1-1500x1000.jpg" crc="3811671783" ref="retailer-case-study:brand-case-study">
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+    </file>
+    <file name="case-study-2-1500x1000.jpg" crc="435182836" ref="retailer-case-study:brand-case-study">
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+    </file>
+    <file name="case-study-3-1500x1000.jpg" crc="4177092969" ref="retailer-case-study:brand-case-study">
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+    </file>
+    <file name="case-study-4-1500x1000.jpg" crc="149054273" ref="retailer-case-study:brand-case-study">
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+    </file>
+    <file name="case-study-1-1500x1000-u329530-fr.jpg" crc="4246280071" ref="retailer-case-study:brand-case-study"/>
+    <file name="case-study-2-1500x1000-u329531-fr.jpg" crc="3780339867" ref="retailer-case-study:brand-case-study"/>
+    <file name="case-study-3-1500x1000-u329529-fr.jpg" crc="4142685929" ref="retailer-case-study:brand-case-study"/>
+    <file name="case-study-4-1500x1000-u331252-fr.jpg" crc="4182179505" ref="retailer-case-study:brand-case-study"/>
+    <file name="case-study-1-1500x1000-u329530-fr2.jpg" crc="290322281" ref="retailer-case-study:brand-case-study"/>
+    <file name="case-study-2-1500x1000-u329531-fr2.jpg" crc="3989222378" ref="retailer-case-study:brand-case-study"/>
+    <file name="case-study-3-1500x1000-u329529-fr2.jpg" crc="496741322" ref="retailer-case-study:brand-case-study"/>
+    <file name="case-study-4-1500x1000-u331252-fr2.jpg" crc="119942101" ref="retailer-case-study:brand-case-study"/>
+    <file name="case-study-1-1500x1000-u329530-fr3.jpg" crc="395032191" ref="retailer-case-study:brand-case-study"/>
+    <file name="case-study-2-1500x1000-u329531-fr3.jpg" crc="494439180" ref="retailer-case-study:brand-case-study"/>
+    <file name="case-study-3-1500x1000-u329529-fr3.jpg" crc="4145273357" ref="retailer-case-study:brand-case-study"/>
+    <file name="case-study-4-1500x1000-u331252-fr3.jpg" crc="390721303" ref="retailer-case-study:brand-case-study"/>
+    <file name="brands-1-960x660.jpg" crc="3877902831" ref="brands">
+      <caption webpage="brands" alt=""/>
+    </file>
+    <file name="hamburger_poster_u332732.png" crc="124731912" ref="index"/>
+    <file name="x_poster_u332686.png" crc="3805349621" ref="index"/>
+    <file name="blue-arrow-right.svg" crc="310586205" seo="true" ref="brands:retailers">
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+    </file>
+    <file name="blue-arrow-right_poster_.png" crc="424415327" ref="brands"/>
+    <file name="blue-arrow-up.svg" crc="493464291" seo="true" ref="brands:retailers">
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+    </file>
+    <file name="blue-arrow-up_poster_.png" crc="20637336" ref="brands"/>
+    <file name="blue-arrow-down.svg" crc="3788082149" seo="true" ref="brands:retailers">
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+    </file>
+    <file name="blue-arrow-down_poster_.png" crc="519825649" ref="brands"/>
+    <file name="blue-arrow-left.svg" crc="309650309" seo="true" ref="brands:retailers">
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+    </file>
+    <file name="blue-arrow-left_poster_.png" crc="4078384740" ref="brands"/>
+    <file name="arteria-logo-grey-box.svg" crc="4156404329" seo="true" ref="brands:retailers">
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+    </file>
+    <file name="arteria-logo-grey-box_poster_.png" crc="4031463718" ref="brands"/>
+    <file name="drive-qualified-traffic.svg" crc="3788443783" seo="true" ref="brands">
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+    </file>
+    <file name="drive-qualified-traffic_poster_.png" crc="536463263" ref="brands"/>
+    <file name="collect-contact-information.svg" crc="389807835" seo="true" ref="brands">
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+    </file>
+    <file name="collect-contact-information_poster_.png" crc="383874364" ref="brands"/>
+    <file name="discover-audience-insights.svg" crc="322961023" seo="true" ref="brands">
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+    </file>
+    <file name="discover-audience-insights_poster_.png" crc="3965038868" ref="brands"/>
+    <file name="increase-sales-volume.svg" crc="132188144" seo="true" ref="brands">
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+    </file>
+    <file name="increase-sales-volume_poster_.png" crc="159720241" ref="brands"/>
+    <file name="improve-audience-targeting.svg" crc="4208428813" seo="true" ref="brands">
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+    </file>
+    <file name="improve-audience-targeting_poster_.png" crc="165715923" ref="brands"/>
+    <file name="drive-social-amplification.svg" crc="174635933" seo="true" ref="brands">
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+    </file>
+    <file name="drive-social-amplification_poster_.png" crc="3876100459" ref="brands"/>
+    <file name="surprise-and-delight.svg" crc="4173909812" seo="true" ref="retailers">
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+    </file>
+    <file name="surprise-and-delight_poster_.png" crc="438736129" ref="retailers"/>
+    <file name="increase-profitability.svg" crc="3973551764" seo="true" ref="retailers">
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+    </file>
+    <file name="increase-profitability_poster_.png" crc="3779842524" ref="retailers"/>
+    <file name="drive-engagement.svg" crc="4190224233" seo="true" ref="retailers">
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
+    </file>
+    <file name="drive-engagement_poster_.png" crc="391121486" ref="retailers"/>
+    <file name="brands-1-960x660-u330824-fr.jpg" crc="480801196" ref="brands"/>
+  </folder>
+  <file name="index.html" crc="4093700917" seo="true" mt="1502122001939" redirect="true"/>
+  <file name="brands.html" crc="248742928" seo="true" mt="1502122001939" redirect="true"/>
+  <file name="brand-case-study.html" crc="4123522282" seo="true" mt="1502122001939" redirect="true"/>
+  <file name="careers.html" crc="4220794386" seo="true" mt="1502122001939" redirect="true"/>
+  <file name="contact-us.html" crc="3888184735" seo="true" mt="1502122001939" redirect="true"/>
+  <file name="retailers.html" crc="3896783922" seo="true" mt="1502122076553" redirect="true"/>
+  <file name="front-end-developer.html" crc="250551304" seo="true" mt="1502122001939" redirect="true"/>
+  <file name="back-end-developer.html" crc="3925189951" seo="true" mt="1502122001939" redirect="true"/>
+  <file name="about-us.html" crc="123640026" seo="true" mt="1502122001939" redirect="true"/>
+  <file name="retailer-case-study.html" crc="524752369" seo="true" mt="1502122001939" redirect="true"/>
+  <file name="account-executive.html" crc="4003938786" seo="true" mt="1502122001939" redirect="true"/>
+  <file name="operations-intern.html" crc="4036098572" seo="true" mt="1502122001939" redirect="true"/>
+</manifest>
