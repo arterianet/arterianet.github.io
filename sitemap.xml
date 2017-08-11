@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://arterianet.com/index.html</loc>
-    <lastmod>2017-08-10</lastmod>
+    <lastmod>2017-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -19,8 +19,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://arterianet.com/contact-us.html</loc>
-    <lastmod>2017-08-09</lastmod>
+    <loc>http://arterianet.com/retailers.html</loc>
+    <lastmod>2017-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -30,39 +30,33 @@
       <image:loc>http://arterianet.com/images/arteria-logo-white.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://arterianet.com/images/message-blue.png</image:loc>
+      <image:loc>http://arterianet.com/images/blue-arrow-up.svg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://arterianet.com/images/location-blue.png</image:loc>
+      <image:loc>http://arterianet.com/images/blue-arrow-right.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/blue-arrow-left.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/blue-arrow-down.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/arteria-logo-grey-box.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/surprise-and-delight.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/increase-profitability.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/drive-engagement.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://arterianet.com/careers.html</loc>
-    <lastmod>2017-08-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://arterianet.com/images/arteria-logo-dark.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/arteria-logo-white.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://arterianet.com/front-end-developer.html</loc>
-    <lastmod>2017-08-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://arterianet.com/images/arteria-logo-dark.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/arteria-logo-white.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://arterianet.com/back-end-developer.html</loc>
-    <lastmod>2017-08-09</lastmod>
+    <loc>http://arterianet.com/brand-case-study.html</loc>
+    <lastmod>2017-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -73,8 +67,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://arterianet.com/account-executive.html</loc>
-    <lastmod>2017-08-09</lastmod>
+    <loc>http://arterianet.com/operations-intern.html</loc>
+    <lastmod>2017-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -85,8 +79,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://arterianet.com/about-us.html</loc>
-    <lastmod>2017-08-09</lastmod>
+    <loc>http://arterianet.com/retailer-case-study.html</loc>
+    <lastmod>2017-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -94,20 +88,11 @@
     </image:image>
     <image:image>
       <image:loc>http://arterianet.com/images/arteria-logo-white.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/rob-caucci.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/bill-thayer.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/kay-anar.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://arterianet.com/brands.html</loc>
-    <lastmod>2017-08-10</lastmod>
+    <lastmod>2017-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -151,8 +136,29 @@
     </image:image>
   </url>
   <url>
-    <loc>http://arterianet.com/retailer-case-study.html</loc>
-    <lastmod>2017-08-09</lastmod>
+    <loc>http://arterianet.com/about-us.html</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://arterianet.com/images/arteria-logo-dark.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/arteria-logo-white.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/rob-caucci.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/bill-thayer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/kay-anar.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://arterianet.com/account-executive.html</loc>
+    <lastmod>2017-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -163,8 +169,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://arterianet.com/operations-intern.html</loc>
-    <lastmod>2017-08-09</lastmod>
+    <loc>http://arterianet.com/back-end-developer.html</loc>
+    <lastmod>2017-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -175,8 +181,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://arterianet.com/retailers.html</loc>
-    <lastmod>2017-08-09</lastmod>
+    <loc>http://arterianet.com/front-end-developer.html</loc>
+    <lastmod>2017-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -184,35 +190,11 @@
     </image:image>
     <image:image>
       <image:loc>http://arterianet.com/images/arteria-logo-white.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/blue-arrow-up.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/blue-arrow-right.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/blue-arrow-left.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/blue-arrow-down.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/arteria-logo-grey-box.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/surprise-and-delight.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/increase-profitability.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://arterianet.com/images/drive-engagement.svg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://arterianet.com/brand-case-study.html</loc>
-    <lastmod>2017-08-09</lastmod>
+    <loc>http://arterianet.com/careers.html</loc>
+    <lastmod>2017-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -221,5 +203,185 @@
     <image:image>
       <image:loc>http://arterianet.com/images/arteria-logo-white.svg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://arterianet.com/contact-us.html</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://arterianet.com/images/arteria-logo-dark.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/arteria-logo-white.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/message-blue.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://arterianet.com/images/location-blue.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/ms-icon-150x150.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/ms-icon-310x310.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/android-icon-36x36.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/android-icon-48x48.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/android-icon-72x72.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/android-icon-96x96.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/ms-icon-70x70.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/ms-icon-144x144.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/apple-icon-57x57.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/apple-icon-60x60.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/apple-icon-72x72.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/apple-icon-76x76.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/browserconfig.xml</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/manifest.json</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/favicon.ico</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/apple-icon-120x120.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/favicon-96x96.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/favicon-32x32.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/favicon-16x16.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/apple-icon.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/apple-icon-precomposed.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/apple-icon-180x180.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/apple-icon-152x152.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/apple-icon-144x144.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/android-icon-144x144.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/apple-icon-114x114.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://arterianet.com/assets/android-icon-192x192.png</loc>
+    <lastmod>2017-08-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
