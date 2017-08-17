@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arterianet.com" resolutions="1x" timestamp="1503006959557">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arterianet.com" resolutions="1x" timestamp="1503007162274">
   <folder name="assets">
     <file name="apple-icon-114x114.png" crc="3787205361" seo="true" mt="1502482094000"/>
     <file name="apple-icon-120x120.png" crc="399672143" seo="true" mt="1502482094000"/>
@@ -56,7 +56,7 @@
     <file name="front-end-developer.css" crc="451325585" ref="front-end-developer"/>
     <file name="nomq_front-end-developer.css" crc="199568529" ref="front-end-developer"/>
     <file name="iefonts_front-end-developer.css" crc="32709209" ref="front-end-developer"/>
-    <file name="index.css" crc="420760449" ref="index"/>
+    <file name="index.css" crc="4057527794" ref="index"/>
     <file name="nomq_index.css" crc="4273071076" ref="index"/>
     <file name="iefonts_index.css" crc="32709209" ref="index"/>
     <file name="retailers.css" crc="3863199847" ref="retailers"/>
@@ -195,10 +195,10 @@
       <caption webpage="operations-intern" alt=""/>
       <caption webpage="operations-intern" alt=""/>
       <caption webpage="operations-intern" alt=""/>
-      <caption webpage="brands" alt=""/>
-      <caption webpage="brands" alt=""/>
-      <caption webpage="brands" alt=""/>
-      <caption webpage="brands" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
       <caption webpage="retailers" alt=""/>
       <caption webpage="retailers" alt=""/>
       <caption webpage="retailers" alt=""/>
@@ -215,10 +215,10 @@
       <caption webpage="brand-case-study" alt=""/>
       <caption webpage="brand-case-study" alt=""/>
       <caption webpage="brand-case-study" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
       <caption webpage="careers" alt=""/>
       <caption webpage="careers" alt=""/>
       <caption webpage="careers" alt=""/>
@@ -246,10 +246,10 @@
       <caption webpage="operations-intern" alt=""/>
       <caption webpage="operations-intern" alt=""/>
       <caption webpage="operations-intern" alt=""/>
-      <caption webpage="brands" alt=""/>
-      <caption webpage="brands" alt=""/>
-      <caption webpage="brands" alt=""/>
-      <caption webpage="brands" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
       <caption webpage="retailers" alt=""/>
       <caption webpage="retailers" alt=""/>
       <caption webpage="retailers" alt=""/>
@@ -266,10 +266,10 @@
       <caption webpage="brand-case-study" alt=""/>
       <caption webpage="brand-case-study" alt=""/>
       <caption webpage="brand-case-study" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
+      <caption webpage="brands" alt=""/>
       <caption webpage="careers" alt=""/>
       <caption webpage="careers" alt=""/>
       <caption webpage="careers" alt=""/>
@@ -569,7 +569,7 @@
       <caption webpage="about-us" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4174059637" seo="true" mt="1503006948448" redirect="true"/>
+  <file name="index.html" crc="484593001" seo="true" mt="1503007063522" redirect="true"/>
   <file name="contact-us.html" crc="4273274622" seo="true" mt="1502983058604" redirect="true"/>
   <file name="careers.html" crc="4108471823" seo="true" mt="1502990804724" redirect="true"/>
   <file name="front-end-developer.html" crc="231282512" seo="true" mt="1503006258556" redirect="true"/>
