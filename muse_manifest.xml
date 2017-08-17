@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arterianet.com" resolutions="1x" timestamp="1502990531021">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arterianet.com" resolutions="1x" timestamp="1502991188571">
   <folder name="assets">
     <file name="apple-icon-114x114.png" crc="3787205361" seo="true" mt="1502482094000"/>
     <file name="apple-icon-120x120.png" crc="399672143" seo="true" mt="1502482094000"/>
@@ -44,8 +44,8 @@
     <file name="account-executive.css" crc="332044948" ref="account-executive"/>
     <file name="nomq_account-executive.css" crc="4219529313" ref="account-executive"/>
     <file name="iefonts_account-executive.css" crc="32709209" ref="account-executive"/>
-    <file name="careers.css" crc="96514720" ref="careers"/>
-    <file name="nomq_careers.css" crc="223345800" ref="careers"/>
+    <file name="careers.css" crc="4044126071" ref="careers"/>
+    <file name="nomq_careers.css" crc="4233580146" ref="careers"/>
     <file name="iefonts_careers.css" crc="32709209" ref="careers"/>
     <file name="operations-intern.css" crc="4273711049" ref="operations-intern"/>
     <file name="nomq_operations-intern.css" crc="420808830" ref="operations-intern"/>
@@ -59,8 +59,8 @@
     <file name="index.css" crc="460500459" ref="index"/>
     <file name="nomq_index.css" crc="3983081569" ref="index"/>
     <file name="iefonts_index.css" crc="32709209" ref="index"/>
-    <file name="retailers.css" crc="4144328966" ref="retailers"/>
-    <file name="nomq_retailers.css" crc="26258842" ref="retailers"/>
+    <file name="retailers.css" crc="3863199847" ref="retailers"/>
+    <file name="nomq_retailers.css" crc="4048099850" ref="retailers"/>
     <file name="iefonts_retailers.css" crc="32709209" ref="retailers"/>
     <file name="brands.css" crc="4014716040" ref="brands"/>
     <file name="nomq_brands.css" crc="3912681468" ref="brands"/>
@@ -80,7 +80,7 @@
     <file name="touchswipe.js" crc="4200445185" ref="index:retailer-case-study:brand-case-study"/>
     <file name="jquery.musemenu.js" crc="493622299" ref="index:contact-us:careers:front-end-developer:back-end-developer:account-executive:about-us:brands:retailer-case-study:operations-intern:retailers:brand-case-study"/>
     <file name="jquery.watch.js" crc="460461809" ref="index:contact-us:careers:front-end-developer:back-end-developer:account-executive:about-us:brands:retailer-case-study:operations-intern:retailers:brand-case-study"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:about-us:brands:retailer-case-study:brand-case-study"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index:about-us:brands:retailer-case-study:brand-case-study:careers"/>
     <file name="musewpdisclosure.js" crc="4050941203" ref="index:contact-us:careers:front-end-developer:back-end-developer:account-executive:about-us:brands:retailer-case-study:operations-intern:retailers:brand-case-study"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:contact-us:careers:front-end-developer:back-end-developer:account-executive:about-us:brands:retailer-case-study:operations-intern:retailers:brand-case-study"/>
     <file name="jquery.museresponsive.js" crc="4055310269" ref="index:contact-us:careers:front-end-developer:back-end-developer:account-executive:about-us:brands:retailer-case-study:operations-intern:retailers:brand-case-study"/>
@@ -105,7 +105,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="menu-bg.gif" crc="133413637" ref="index">
+    <file name="menu-bg.gif" crc="133413637" ref="index:careers">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -195,10 +195,10 @@
       <caption webpage="operations-intern" alt=""/>
       <caption webpage="operations-intern" alt=""/>
       <caption webpage="operations-intern" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
       <caption webpage="retailers" alt=""/>
       <caption webpage="retailers" alt=""/>
       <caption webpage="retailers" alt=""/>
@@ -211,10 +211,10 @@
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
-      <caption webpage="brand-case-study" alt=""/>
-      <caption webpage="brand-case-study" alt=""/>
-      <caption webpage="brand-case-study" alt=""/>
-      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
       <caption webpage="brands" alt=""/>
       <caption webpage="brands" alt=""/>
       <caption webpage="brands" alt=""/>
@@ -232,7 +232,7 @@
       <caption webpage="contact-us" alt=""/>
       <caption webpage="contact-us" alt=""/>
     </file>
-    <file name="arteria-logo-dark_poster_.png" crc="4025672716" ref="index"/>
+    <file name="arteria-logo-dark_poster_.png" crc="4025672716" ref="index:careers"/>
     <file name="arteria-logo-white.svg" crc="3970811726" seo="true" ref="index:contact-us:careers:front-end-developer:back-end-developer:account-executive:about-us:brands:retailer-case-study:operations-intern:retailers:brand-case-study">
       <caption webpage="back-end-developer" alt=""/>
       <caption webpage="back-end-developer" alt=""/>
@@ -246,10 +246,10 @@
       <caption webpage="operations-intern" alt=""/>
       <caption webpage="operations-intern" alt=""/>
       <caption webpage="operations-intern" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="brand-case-study" alt=""/>
       <caption webpage="retailers" alt=""/>
       <caption webpage="retailers" alt=""/>
       <caption webpage="retailers" alt=""/>
@@ -262,10 +262,10 @@
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
-      <caption webpage="brand-case-study" alt=""/>
-      <caption webpage="brand-case-study" alt=""/>
-      <caption webpage="brand-case-study" alt=""/>
-      <caption webpage="brand-case-study" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
       <caption webpage="brands" alt=""/>
       <caption webpage="brands" alt=""/>
       <caption webpage="brands" alt=""/>
@@ -283,11 +283,11 @@
       <caption webpage="contact-us" alt=""/>
       <caption webpage="contact-us" alt=""/>
     </file>
-    <file name="arteria-logo-white_poster_.png" crc="439593084" ref="index"/>
-    <file name="hamburger.svg" crc="253546228" ref="index"/>
-    <file name="hamburger_poster_u332732.png" crc="124731912" ref="index"/>
-    <file name="x.svg" crc="3826083066" ref="index"/>
-    <file name="x_poster_u332686.png" crc="3805349621" ref="index"/>
+    <file name="arteria-logo-white_poster_.png" crc="439593084" ref="index:careers"/>
+    <file name="hamburger.svg" crc="253546228" ref="index:careers"/>
+    <file name="hamburger_poster_u332732.png" crc="124731912" ref="index:careers"/>
+    <file name="x.svg" crc="3826083066" ref="index:careers"/>
+    <file name="x_poster_u332686.png" crc="3805349621" ref="index:careers"/>
     <file name="message-blue.png" crc="3820924651" seo="true" ref="contact-us">
       <caption webpage="contact-us" alt=""/>
       <caption webpage="contact-us" alt=""/>
@@ -373,40 +373,40 @@
       <caption webpage="brands" alt=""/>
     </file>
     <file name="blue-arrow-up.svg" crc="493464291" seo="true" ref="brands:retailers">
-      <caption webpage="retailers" alt=""/>
-      <caption webpage="retailers" alt=""/>
       <caption webpage="brands" alt=""/>
       <caption webpage="brands" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
     </file>
-    <file name="blue-arrow-up_poster_.png" crc="20637336" ref="brands"/>
+    <file name="blue-arrow-up_poster_.png" crc="20637336" ref="brands:retailers"/>
     <file name="blue-arrow-right.svg" crc="310586205" seo="true" ref="brands:retailers">
-      <caption webpage="retailers" alt=""/>
-      <caption webpage="retailers" alt=""/>
       <caption webpage="brands" alt=""/>
       <caption webpage="brands" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
     </file>
-    <file name="blue-arrow-right_poster_.png" crc="424415327" ref="brands"/>
+    <file name="blue-arrow-right_poster_.png" crc="424415327" ref="brands:retailers"/>
     <file name="blue-arrow-left.svg" crc="309650309" seo="true" ref="brands:retailers">
-      <caption webpage="retailers" alt=""/>
-      <caption webpage="retailers" alt=""/>
       <caption webpage="brands" alt=""/>
       <caption webpage="brands" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
     </file>
-    <file name="blue-arrow-left_poster_.png" crc="4078384740" ref="brands"/>
+    <file name="blue-arrow-left_poster_.png" crc="4078384740" ref="brands:retailers"/>
     <file name="blue-arrow-down.svg" crc="3788082149" seo="true" ref="brands:retailers">
-      <caption webpage="retailers" alt=""/>
-      <caption webpage="retailers" alt=""/>
       <caption webpage="brands" alt=""/>
       <caption webpage="brands" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
     </file>
-    <file name="blue-arrow-down_poster_.png" crc="519825649" ref="brands"/>
+    <file name="blue-arrow-down_poster_.png" crc="519825649" ref="brands:retailers"/>
     <file name="arteria-logo-grey-box.svg" crc="4156404329" seo="true" ref="brands:retailers">
-      <caption webpage="retailers" alt=""/>
-      <caption webpage="retailers" alt=""/>
       <caption webpage="brands" alt=""/>
       <caption webpage="brands" alt=""/>
+      <caption webpage="retailers" alt=""/>
+      <caption webpage="retailers" alt=""/>
     </file>
-    <file name="arteria-logo-grey-box_poster_.png" crc="4031463718" ref="brands"/>
+    <file name="arteria-logo-grey-box_poster_.png" crc="4031463718" ref="brands:retailers"/>
     <file name="brands-1-960x660-u330824-fr.jpg" crc="480801196" ref="brands"/>
     <file name="case-study-1-1500x1000.jpg" crc="3811671783" ref="retailer-case-study:brand-case-study">
       <caption webpage="brand-case-study" alt=""/>
@@ -571,7 +571,7 @@
   </folder>
   <file name="index.html" crc="316451624" seo="true" mt="1502990496624" redirect="true"/>
   <file name="contact-us.html" crc="4273274622" seo="true" mt="1502983058604" redirect="true"/>
-  <file name="careers.html" crc="3849180222" seo="true" mt="1502990293706" redirect="true"/>
+  <file name="careers.html" crc="4108471823" seo="true" mt="1502990804724" redirect="true"/>
   <file name="front-end-developer.html" crc="3765133555" seo="true" mt="1502983058604" redirect="true"/>
   <file name="back-end-developer.html" crc="196384305" seo="true" mt="1502983058604" redirect="true"/>
   <file name="account-executive.html" crc="168506172" seo="true" mt="1502983058604" redirect="true"/>
@@ -579,6 +579,6 @@
   <file name="brands.html" crc="248486236" seo="true" mt="1502989292519" redirect="true"/>
   <file name="retailer-case-study.html" crc="463075687" seo="true" mt="1502983058604" redirect="true"/>
   <file name="operations-intern.html" crc="4158085609" seo="true" mt="1502983058604" redirect="true"/>
-  <file name="retailers.html" crc="476549641" seo="true" mt="1502988999936" redirect="true"/>
+  <file name="retailers.html" crc="4158489458" seo="true" mt="1502991123232" redirect="true"/>
   <file name="brand-case-study.html" crc="3845901038" seo="true" mt="1502983058604" redirect="true"/>
 </manifest>
