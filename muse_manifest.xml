@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arterianet.com" resolutions="1x" timestamp="1503083001619">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arterianet.com" resolutions="1x" timestamp="1503083131543">
   <folder name="assets">
     <file name="apple-icon-114x114.png" crc="3787205361" seo="true" mt="1502482094000"/>
     <file name="apple-icon-120x120.png" crc="399672143" seo="true" mt="1502482094000"/>
@@ -35,10 +35,10 @@
     <file name="contact-us.css" crc="510259856" ref="contact-us"/>
     <file name="nomq_contact-us.css" crc="3854688479" ref="contact-us"/>
     <file name="iefonts_contact-us.css" crc="32709209" ref="contact-us"/>
-    <file name="brand-case-study.css" crc="93419687" ref="brand-case-study"/>
+    <file name="brand-case-study.css" crc="131795737" ref="brand-case-study"/>
     <file name="nomq_brand-case-study.css" crc="478008743" ref="brand-case-study"/>
     <file name="iefonts_brand-case-study.css" crc="32709209" ref="brand-case-study"/>
-    <file name="retailer-case-study.css" crc="213680558" ref="retailer-case-study"/>
+    <file name="retailer-case-study.css" crc="3802556692" ref="retailer-case-study"/>
     <file name="nomq_retailer-case-study.css" crc="317242482" ref="retailer-case-study"/>
     <file name="iefonts_retailer-case-study.css" crc="32709209" ref="retailer-case-study"/>
     <file name="account-executive.css" crc="3893044882" ref="account-executive"/>
@@ -109,21 +109,6 @@
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
       <caption webpage="about-us" alt=""/>
-      <caption webpage="retailer-case-study" alt=""/>
-      <caption webpage="retailer-case-study" alt=""/>
-      <caption webpage="retailer-case-study" alt=""/>
-      <caption webpage="retailer-case-study" alt=""/>
-      <caption webpage="retailer-case-study" alt=""/>
-      <caption webpage="retailer-case-study" alt=""/>
-      <caption webpage="retailer-case-study" alt=""/>
-      <caption webpage="retailer-case-study" alt=""/>
-      <caption webpage="retailer-case-study" alt=""/>
-      <caption webpage="retailer-case-study" alt=""/>
-      <caption webpage="retailer-case-study" alt=""/>
-      <caption webpage="retailer-case-study" alt=""/>
-      <caption webpage="retailer-case-study" alt=""/>
-      <caption webpage="retailer-case-study" alt=""/>
-      <caption webpage="retailer-case-study" alt=""/>
       <caption webpage="careers" alt=""/>
       <caption webpage="careers" alt=""/>
       <caption webpage="careers" alt=""/>
@@ -154,6 +139,21 @@
       <caption webpage="retailers" alt=""/>
       <caption webpage="retailers" alt=""/>
       <caption webpage="retailers" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
+      <caption webpage="retailer-case-study" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -619,8 +619,8 @@
   <file name="account-executive.html" crc="195001972" seo="true" mt="1503006497942" redirect="true"/>
   <file name="about-us.html" crc="3983011137" seo="true" mt="1503078696473" redirect="true"/>
   <file name="brands.html" crc="176082416" seo="true" mt="1503082178434" redirect="true"/>
-  <file name="retailer-case-study.html" crc="374327297" seo="true" mt="1503082922673" redirect="true"/>
+  <file name="retailer-case-study.html" crc="334778438" seo="true" mt="1503083109544" redirect="true"/>
   <file name="operations-intern.html" crc="50678550" seo="true" mt="1503005961873" redirect="true"/>
   <file name="retailers.html" crc="255805678" seo="true" mt="1503082375404" redirect="true"/>
-  <file name="brand-case-study.html" crc="4028049199" seo="true" mt="1503082907497" redirect="true"/>
+  <file name="brand-case-study.html" crc="3797204445" seo="true" mt="1503083086442" redirect="true"/>
 </manifest>
