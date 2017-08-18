@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arterianet.com" resolutions="1x" timestamp="1503007806269">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arterianet.com" resolutions="1x" timestamp="1503078861492">
   <folder name="assets">
     <file name="apple-icon-114x114.png" crc="3787205361" seo="true" mt="1502482094000"/>
     <file name="apple-icon-120x120.png" crc="399672143" seo="true" mt="1502482094000"/>
@@ -30,7 +30,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3911349242"/>
-    <file name="master_arteria-navigation.css" crc="246994976" ref="contact-us:brand-case-study:retailer-case-study:account-executive:careers:operations-intern:about-us:front-end-developer:index:retailers:brands:back-end-developer"/>
+    <file name="master_arteria-navigation.css" crc="4169168305" ref="contact-us:brand-case-study:retailer-case-study:account-executive:careers:operations-intern:about-us:front-end-developer:index:retailers:brands:back-end-developer"/>
     <file name="nomq_preview_master_arteria-navigation.css" crc="435237628" ref="contact-us:brand-case-study:retailer-case-study:account-executive:careers:operations-intern:about-us:front-end-developer:index:retailers:brands:back-end-developer"/>
     <file name="contact-us.css" crc="510259856" ref="contact-us"/>
     <file name="nomq_contact-us.css" crc="3854688479" ref="contact-us"/>
@@ -44,14 +44,14 @@
     <file name="account-executive.css" crc="3893044882" ref="account-executive"/>
     <file name="nomq_account-executive.css" crc="4219529313" ref="account-executive"/>
     <file name="iefonts_account-executive.css" crc="32709209" ref="account-executive"/>
-    <file name="careers.css" crc="4044126071" ref="careers"/>
-    <file name="nomq_careers.css" crc="4233580146" ref="careers"/>
+    <file name="careers.css" crc="409359724" ref="careers"/>
+    <file name="nomq_careers.css" crc="153059766" ref="careers"/>
     <file name="iefonts_careers.css" crc="32709209" ref="careers"/>
     <file name="operations-intern.css" crc="4245476990" ref="operations-intern"/>
     <file name="nomq_operations-intern.css" crc="420808830" ref="operations-intern"/>
     <file name="iefonts_operations-intern.css" crc="32709209" ref="operations-intern"/>
-    <file name="about-us.css" crc="62162745" ref="about-us"/>
-    <file name="nomq_about-us.css" crc="352810907" ref="about-us"/>
+    <file name="about-us.css" crc="198917882" ref="about-us"/>
+    <file name="nomq_about-us.css" crc="3819664053" ref="about-us"/>
     <file name="iefonts_about-us.css" crc="32709209" ref="about-us"/>
     <file name="front-end-developer.css" crc="451325585" ref="front-end-developer"/>
     <file name="nomq_front-end-developer.css" crc="199568529" ref="front-end-developer"/>
@@ -195,10 +195,10 @@
       <caption webpage="operations-intern" alt=""/>
       <caption webpage="operations-intern" alt=""/>
       <caption webpage="operations-intern" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
       <caption webpage="retailers" alt=""/>
       <caption webpage="retailers" alt=""/>
       <caption webpage="retailers" alt=""/>
@@ -211,10 +211,10 @@
       <caption webpage="brand-case-study" alt=""/>
       <caption webpage="brand-case-study" alt=""/>
       <caption webpage="brand-case-study" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
       <caption webpage="brands" alt=""/>
       <caption webpage="brands" alt=""/>
       <caption webpage="brands" alt=""/>
@@ -246,10 +246,10 @@
       <caption webpage="operations-intern" alt=""/>
       <caption webpage="operations-intern" alt=""/>
       <caption webpage="operations-intern" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
-      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="about-us" alt=""/>
       <caption webpage="retailers" alt=""/>
       <caption webpage="retailers" alt=""/>
       <caption webpage="retailers" alt=""/>
@@ -262,10 +262,10 @@
       <caption webpage="brand-case-study" alt=""/>
       <caption webpage="brand-case-study" alt=""/>
       <caption webpage="brand-case-study" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
-      <caption webpage="about-us" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
+      <caption webpage="front-end-developer" alt=""/>
       <caption webpage="brands" alt=""/>
       <caption webpage="brands" alt=""/>
       <caption webpage="brands" alt=""/>
@@ -571,11 +571,11 @@
   </folder>
   <file name="index.html" crc="4011163284" seo="true" mt="1503007784497" redirect="true"/>
   <file name="contact-us.html" crc="4273274622" seo="true" mt="1502983058604" redirect="true"/>
-  <file name="careers.html" crc="4108471823" seo="true" mt="1502990804724" redirect="true"/>
+  <file name="careers.html" crc="178465697" seo="true" mt="1503078828143" redirect="true"/>
   <file name="front-end-developer.html" crc="231282512" seo="true" mt="1503006258556" redirect="true"/>
   <file name="back-end-developer.html" crc="196384305" seo="true" mt="1502983058604" redirect="true"/>
   <file name="account-executive.html" crc="195001972" seo="true" mt="1503006497942" redirect="true"/>
-  <file name="about-us.html" crc="100243160" seo="true" mt="1502983058604" redirect="true"/>
+  <file name="about-us.html" crc="3983011137" seo="true" mt="1503078696473" redirect="true"/>
   <file name="brands.html" crc="248486236" seo="true" mt="1502989292519" redirect="true"/>
   <file name="retailer-case-study.html" crc="463075687" seo="true" mt="1502983058604" redirect="true"/>
   <file name="operations-intern.html" crc="50678550" seo="true" mt="1503005961873" redirect="true"/>
