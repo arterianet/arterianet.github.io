@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arterianet.com" resolutions="1x" timestamp="1504895944821">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="arterianet.com" resolutions="1x" timestamp="1504896042038">
   <folder name="assets">
     <file name="apple-icon-114x114.png" crc="3787205361" seo="true" mt="1502482094000"/>
     <file name="apple-icon-120x120.png" crc="399672143" seo="true" mt="1502482094000"/>
