@@ -9,7 +9,9 @@
         setTimeout(function () {
             window.location.href = "https://letote.com/?discount_code=50LIP&utm_source=Arteria&utm_medium=LipMonthly&utm_campaign=LipMonthly-LeTote"
         }, 5000);
-        // Google
+        window.addEventListener('load', function () {
+            window.location.href = "https://letote.com/?discount_code=50LIP&utm_source=Arteria&utm_medium=LipMonthly&utm_campaign=LipMonthly-LeTote";
+        }, false);        
         (function (i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r;
             i[r] = i[r] || function () {
@@ -20,14 +22,8 @@
             a.src = g;
             m.parentNode.insertBefore(a, m)
         })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-        try {
-            ga('create', 'UA-104335722-1', 'auto');
-            ga('send', 'pageview');
-        }
-        catch (err) {
-            console.log(err);
-        }
-        // Facebook
+        ga('create', 'UA-104335722-1', 'auto');
+        ga('send', 'pageview');
         ! function (f, b, e, v, n, t, s) {
             if (f.fbq) return;
             n = f.fbq = function () {
@@ -46,10 +42,6 @@
         }(window, document, 'script', 'https://connect.facebook.net/en_US/fbevents.js');
         fbq('init', '140505356695977');
         fbq('track', 'PageView');
-        // Check
-        window.addEventListener('load', function () {
-            window.location.href = "https://letote.com/?discount_code=50LIP&utm_source=Arteria&utm_medium=LipMonthly&utm_campaign=LipMonthly-LeTote";
-        }, false);
     </script>
 </head>
 
